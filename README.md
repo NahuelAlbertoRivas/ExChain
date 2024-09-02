@@ -87,11 +87,11 @@ ETH , 23
 #### Un posible formato de menú para el usuario trader podría ser el siguiente:
 #### Menú de opciones
 -----------------------
-1) Comprar Criptomonedas\
-2) Vender Criptomonedas\
-3) Consultar Criptomoneda\
-4) Recomendar Criptomonedas\
-5) Consultar estado actual del mercado\
-6) Visualizar archivo de transacciones (histórico).\
-7) Salir\
+1) Comprar Criptomonedas
+2) Vender Criptomonedas
+3) Consultar Criptomoneda
+4) Recomendar Criptomonedas
+5) Consultar estado actual del mercado
+6) Visualizar archivo de transacciones (histórico).
+7) Salir
 Ingrese su opción (1 - 7 ): _
