@@ -1,6 +1,9 @@
 # PROYECTO
 #### El presente trabajo práctico tiene como objetivo aplicar los conceptos, principios y características del paradigma de la programación orientada a objetos (Clases, objetos, métodos, interfaz, herencia, polimorfismo, colecciones, etc.).
 
+### Diagrama de clases UML:
+https://drive.google.com/file/d/1bTTO6wg_ZR1USbBvrd_8WemuO4J9lQxR/view?usp=drive_link
+
 ## Objetivo
 - Implementar todos los conceptos abordados del paradigma de la Programación orientada a objetos, como solución a un problema real, partiendo del análisis de la problemática, el diseño de la solución (Diagrama de clases) y posteriormente la construcción del producto final (Software).
 
